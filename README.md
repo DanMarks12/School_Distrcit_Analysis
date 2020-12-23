@@ -1,2 +1,2 @@
-# School_Distrcit_Analysis
+# School_District_Analysis
 Analysis on School Districts
