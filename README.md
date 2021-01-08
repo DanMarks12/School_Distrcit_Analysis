@@ -7,7 +7,7 @@ The purpose of this analysis was done after the School District discovered the g
 ### How is the district summary affected?
 The district summary was affected because THS 9th grade students averaged higher math reading and overall passing % than the district. By removing them we were able to capture a more honest look at the districts passing %. Passing Math % decreased from 74.9% to 73.9% and Passing Reading % decreased from 85.8% to 84.7%. Overall passing also decreased from 65.17% to 64.1%. 
 
-![](Final_District_Summary.PNG)
+![](Final_District_Summary.png)
 
 ### How is the school summary affected?
 When removing 9th graders THS school was not as affected much. When removing 9th graders scores Thomas High School remained in the top 5 schools.This is because of good performance of their other grades. Their passing % did drop a bit for each category which will be mentioned bellow. 
@@ -31,7 +31,7 @@ As a whole removing 9th grader scores should only affect the bin THS was in (630
 #### Scores by school type
 Similar to above, changes to school type were minimally affected by removing 9th grade scores.
 
-![](School_type.PNG)
+![](school_type.PNG)
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
